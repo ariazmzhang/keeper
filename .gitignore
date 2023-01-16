@@ -1,5 +1,10 @@
+.gitignore
 node_modules
 package-lock.json
 package.json
+<<<<<<< HEAD
 .vscode/
 .DS_Store
+=======
+.vscode/
+>>>>>>> 451c4161593df97e3b9248125d08c76ecb1a9fb0
